@@ -1,4 +1,0 @@
-(executable
-    (name main)
-    (libraries ctypes.foreign)
-    (flags :standard -cclib "-L . -lmylib"))
